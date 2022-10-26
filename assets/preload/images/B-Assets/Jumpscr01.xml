@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jumpscr01.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Heyyy bitch instance 10000" x="10" y="10" width="530" height="648" frameX="-251" frameY="-76" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10001" x="550" y="10" width="599" height="724" frameX="-202" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10002" x="550" y="10" width="599" height="724" frameX="-202" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10003" x="1159" y="10" width="625" height="724" frameX="-163" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10004" x="1159" y="10" width="625" height="724" frameX="-163" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10005" x="1794" y="10" width="549" height="707" frameX="-192" frameY="-17" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10006" x="1794" y="10" width="549" height="707" frameX="-192" frameY="-17" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10007" x="2353" y="10" width="587" height="667" frameX="-197" frameY="-57" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10008" x="2353" y="10" width="587" height="667" frameX="-197" frameY="-57" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10009" x="2950" y="10" width="570" height="659" frameX="-220" frameY="-65" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10010" x="2950" y="10" width="570" height="659" frameX="-220" frameY="-65" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10011" x="3530" y="10" width="547" height="671" frameX="-241" frameY="-53" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10012" x="3530" y="10" width="547" height="671" frameX="-241" frameY="-53" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10013" x="10" y="744" width="530" height="672" frameX="-254" frameY="-52" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10014" x="10" y="744" width="530" height="672" frameX="-254" frameY="-52" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10015" x="550" y="744" width="537" height="678" frameX="-254" frameY="-46" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10016" x="550" y="744" width="537" height="678" frameX="-254" frameY="-46" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10017" x="1097" y="744" width="545" height="680" frameX="-253" frameY="-44" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10018" x="1097" y="744" width="545" height="680" frameX="-253" frameY="-44" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10019" x="1652" y="744" width="572" height="688" frameX="-245" frameY="-36" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10020" x="1652" y="744" width="572" height="688" frameX="-245" frameY="-36" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10021" x="2234" y="744" width="583" height="715" frameX="-305" frameY="-9" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10022" x="2234" y="744" width="583" height="715" frameX="-305" frameY="-9" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10023" x="2827" y="744" width="572" height="724" frameX="-316" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10024" x="2827" y="744" width="572" height="724" frameX="-316" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10025" x="3409" y="744" width="572" height="724" frameX="-316" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10026" x="3409" y="744" width="572" height="724" frameX="-316" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10027" x="10" y="1478" width="575" height="724" frameX="-313" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10028" x="10" y="1478" width="575" height="724" frameX="-313" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10029" x="595" y="1478" width="527" height="714" frameX="-361" frameY="-10" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10030" x="595" y="1478" width="527" height="714" frameX="-361" frameY="-10" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10031" x="1132" y="1478" width="698" height="724" frameX="-190" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10032" x="1840" y="1478" width="727" height="724" frameX="0" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10033" x="1840" y="1478" width="727" height="724" frameX="0" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10034" x="2577" y="1478" width="693" height="724" frameX="-33" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10035" x="2577" y="1478" width="693" height="724" frameX="-33" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10036" x="3280" y="1478" width="665" height="724" frameX="-63" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10037" x="3280" y="1478" width="665" height="724" frameX="-63" frameY="0" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10038" x="10" y="2212" width="622" height="718" frameX="-102" frameY="-6" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10039" x="10" y="2212" width="622" height="718" frameX="-102" frameY="-6" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10040" x="642" y="2212" width="586" height="710" frameX="-128" frameY="-14" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10041" x="642" y="2212" width="586" height="710" frameX="-128" frameY="-14" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10042" x="1238" y="2212" width="586" height="653" frameX="-165" frameY="-71" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10043" x="1834" y="2212" width="498" height="456" frameX="-277" frameY="-268" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10044" x="2342" y="2212" width="265" height="196" frameX="-437" frameY="-528" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10045" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10046" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10047" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10048" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10049" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10050" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10051" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10052" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10053" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10054" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10055" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10056" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10057" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10058" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+	<SubTexture name="Heyyy bitch instance 10059" x="2617" y="2212" width="0" height="0" frameX="-1416" frameY="105" frameWidth="888" frameHeight="724"/>
+</TextureAtlas>

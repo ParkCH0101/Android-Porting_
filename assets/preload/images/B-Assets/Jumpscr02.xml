@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jumpscr02.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jumppp instance 10000" x="10" y="10" width="235" height="794" frameX="-694" frameY="-13" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10001" x="255" y="10" width="560" height="823" frameX="-369" frameY="-64" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10002" x="825" y="10" width="773" height="694" frameX="-103" frameY="-73" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10003" x="825" y="10" width="773" height="694" frameX="-103" frameY="-73" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10004" x="1608" y="10" width="790" height="799" frameX="-87" frameY="-88" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10005" x="1608" y="10" width="790" height="799" frameX="-87" frameY="-88" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10006" x="2408" y="10" width="785" height="714" frameX="-93" frameY="-85" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10007" x="2408" y="10" width="785" height="714" frameX="-93" frameY="-85" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10008" x="3203" y="10" width="763" height="745" frameX="-117" frameY="-73" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10009" x="3203" y="10" width="763" height="745" frameX="-117" frameY="-73" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10010" x="3976" y="10" width="771" height="741" frameX="-124" frameY="-68" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10011" x="3976" y="10" width="771" height="741" frameX="-124" frameY="-68" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10012" x="4757" y="10" width="751" height="824" frameX="-139" frameY="-63" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10013" x="4757" y="10" width="751" height="824" frameX="-139" frameY="-63" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10014" x="5518" y="10" width="754" height="698" frameX="-148" frameY="-62" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10015" x="5518" y="10" width="754" height="698" frameX="-148" frameY="-62" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10016" x="5518" y="10" width="754" height="698" frameX="-148" frameY="-62" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10017" x="6282" y="10" width="735" height="746" frameX="-168" frameY="-60" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10018" x="6282" y="10" width="735" height="746" frameX="-168" frameY="-60" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10019" x="7027" y="10" width="639" height="721" frameX="-290" frameY="-43" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10020" x="7027" y="10" width="639" height="721" frameX="-290" frameY="-43" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10021" x="10" y="844" width="612" height="768" frameX="-317" frameY="-39" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10022" x="10" y="844" width="612" height="768" frameX="-317" frameY="-39" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10023" x="632" y="844" width="591" height="850" frameX="-338" frameY="-37" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10024" x="632" y="844" width="591" height="850" frameX="-338" frameY="-37" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10025" x="1233" y="844" width="582" height="781" frameX="-347" frameY="-36" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10026" x="1233" y="844" width="582" height="781" frameX="-347" frameY="-36" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10027" x="1825" y="844" width="562" height="789" frameX="-367" frameY="-37" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10028" x="1825" y="844" width="562" height="789" frameX="-367" frameY="-37" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10029" x="2397" y="844" width="549" height="848" frameX="-380" frameY="-39" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10030" x="2397" y="844" width="549" height="848" frameX="-380" frameY="-39" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10031" x="2397" y="844" width="549" height="848" frameX="-380" frameY="-39" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10032" x="2956" y="844" width="540" height="849" frameX="-389" frameY="-38" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10033" x="2956" y="844" width="540" height="849" frameX="-389" frameY="-38" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10034" x="2956" y="844" width="540" height="849" frameX="-389" frameY="-38" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10035" x="3506" y="844" width="599" height="803" frameX="-330" frameY="-35" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10036" x="3506" y="844" width="599" height="803" frameX="-330" frameY="-35" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10037" x="4115" y="844" width="755" height="743" frameX="-104" frameY="-27" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10038" x="4880" y="844" width="731" height="596" frameX="-6" frameY="-174" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10039" x="4880" y="844" width="731" height="596" frameX="-6" frameY="-174" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10040" x="5621" y="844" width="724" height="620" frameX="0" frameY="-172" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10041" x="5621" y="844" width="724" height="620" frameX="0" frameY="-172" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10042" x="6355" y="844" width="819" height="719" frameX="-110" frameY="-60" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10043" x="7184" y="844" width="655" height="817" frameX="-274" frameY="-12" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10044" x="10" y="1704" width="675" height="835" frameX="-254" frameY="0" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10045" x="10" y="1704" width="675" height="835" frameX="-254" frameY="0" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10046" x="695" y="1704" width="724" height="875" frameX="-205" frameY="-12" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10047" x="695" y="1704" width="724" height="875" frameX="-205" frameY="-12" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10048" x="1429" y="1704" width="733" height="867" frameX="-190" frameY="-20" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10049" x="1429" y="1704" width="733" height="867" frameX="-190" frameY="-20" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10050" x="2172" y="1704" width="719" height="834" frameX="-158" frameY="-53" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10051" x="2172" y="1704" width="719" height="834" frameX="-158" frameY="-53" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10052" x="2901" y="1704" width="706" height="651" frameX="-192" frameY="-109" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10053" x="3617" y="1704" width="695" height="739" frameX="-234" frameY="-104" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10054" x="4322" y="1704" width="475" height="767" frameX="-454" frameY="-120" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10055" x="4807" y="1704" width="296" height="671" frameX="-633" frameY="-161" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10056" x="5113" y="1704" width="144" height="671" frameX="-785" frameY="-161" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10057" x="5267" y="1704" width="0" height="0" frameX="-199" frameY="253" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10058" x="5267" y="1704" width="0" height="0" frameX="-199" frameY="253" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10059" x="5267" y="1704" width="0" height="0" frameX="-199" frameY="253" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10060" x="5267" y="1704" width="0" height="0" frameX="-199" frameY="253" frameWidth="929" frameHeight="887"/>
+	<SubTexture name="Jumppp instance 10061" x="5267" y="1704" width="0" height="0" frameX="-199" frameY="253" frameWidth="929" frameHeight="887"/>
+</TextureAtlas>
