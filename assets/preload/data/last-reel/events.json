@@ -1,0 +1,36 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "B-Stage",
+		"player1": "B-bf",
+		"player2": "Bendy",
+		"player3": null,
+		"events": [
+			[
+				4000,
+				[
+					[
+						"Play Animation",
+						"Roar",
+						"dad"
+					],
+					[
+						"Screen Shake",
+						"1, 0.05",
+						""
+					]
+				],
+				null,
+				"B-Ink"
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "B-gf",
+		"bpm": 180,
+		"arrowSkin": "BendyNote",
+		"needsVoices": true,
+		"song": "Last-Reel"
+	}
+}
